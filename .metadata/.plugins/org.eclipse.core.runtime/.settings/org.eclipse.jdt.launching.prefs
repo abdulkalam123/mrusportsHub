@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1716573444239" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1716572660757" name\="jdk-22" path\="C\:\\Program Files\\Java\\jdk-22"/>\r\n        <vm id\="1716573016907" name\="jdk-22.0" path\="C\:\\Program Files\\Java\\jdk-22"/>\r\n        <vm id\="1716573444239" name\="jdk-21.0.2" path\="C\:\\Users\\rahma\\Downloads\\jdk-21.0.2_windows-x64_bin\\jdk-21.0.2"/>\r\n    </vmType>\r\n</vmSettings>\r\n
